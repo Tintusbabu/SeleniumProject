@@ -61,6 +61,7 @@ public class CollectionLearning {
 		mapData.put("Price1",10);
 		mapData.put("Price2",70);
 		mapData.put("Price3",90);
+		mapData.put("Price4",900);
 		System.out.println("Hash Map Values"+mapData);
 		//Enhanced for loop
 		
